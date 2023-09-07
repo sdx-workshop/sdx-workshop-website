@@ -13,5 +13,5 @@ jobs:
       - uses: enriikke/gatsby-gh-pages-action@v2
         with:
           deploy-branch: master
-          deploy-repo: sdx-workshop/sdx-workshop.github.io.git
+          deploy-repo: sdx-workshop.github.io
           access-token: ${{ secrets.ACCESS_TOKEN }}
