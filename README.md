@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://minimal-blog.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+    <img alt="SDX Workshop 2023" src="https://sdx-workshop.github.io" />
   </a>
 </p>
 <h1 align="center">
