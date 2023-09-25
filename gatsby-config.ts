@@ -35,6 +35,10 @@ const config: GatsbyConfig = {
         ],
         externalLinks: [
           {
+            name: `Free registration`,
+            url: `https://docs.google.com/forms/d/15qDb1PIBZ9z_bIY3z0JhChkAVSbLhB6P-OBNdtYHb_E`,
+          },
+          {
             name: `Twitter`,
             url: `https://twitter.com/sounddemix`,
           },
