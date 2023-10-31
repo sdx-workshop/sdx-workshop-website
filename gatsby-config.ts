@@ -29,6 +29,10 @@ const config: GatsbyConfig = {
             slug: `/blog`,
           },
           {
+            title: `Program`,
+            slug: `/program`,
+          },
+          {
             title: `Organizers`,
             slug: `/team`,
           },
